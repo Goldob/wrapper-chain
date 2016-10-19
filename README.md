@@ -39,7 +39,7 @@ __Warning:__ Don't use arrow functions to implement wrappers or you will lose `t
 
 ## Install
 
-`npm install hh-mm-ss --save`
+`npm install wrapper-chain --save`
 
 ## License
 
