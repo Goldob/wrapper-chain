@@ -4,7 +4,7 @@
   "description": "Wrap any function with pre-defined chaining methods",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "test": "standard && node test"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Goldob/wrapper-chain#readme",
   "devDependencies": {
-    "standard": "^8.4.0"
+    "standard": "^8.4.0",
+    "tape": "^4.6.2"
   }
 }
